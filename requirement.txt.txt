@@ -1,0 +1,10 @@
+Technologies Used
+ Python
+- NumPy
+- Matplotlib
+- Seaborn
+- Basemap
+
+Libraries
+pip install numpy matplotlib seaborn basemap
+python datavisualizationproject.py
